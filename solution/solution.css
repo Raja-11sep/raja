@@ -1,0 +1,16 @@
+#main-div{
+    background-color: rgb(189, 54, 180);
+    padding:10px;
+}
+#first-inner{
+    background-color: blue;
+    padding: 10px;
+}
+.ytext{
+    color: yellow;
+}
+.wtext{
+    color: white;
+    background-color: red;
+    padding: 10px;
+}
